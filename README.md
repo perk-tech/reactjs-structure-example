@@ -1,2 +1,2 @@
 # Start Project
-`craco start`
+command to start :point_right: `craco start`
